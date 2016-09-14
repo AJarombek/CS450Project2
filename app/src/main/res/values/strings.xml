@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CS450Project2</string>
+    <string name="_0">0.0</string>
+    <string name="longitude">Longitude:</string>
+    <string name="latitude">Latitude:</string>
+    <string name="y">Y</string>
+    <string name="x">X</string>
+</resources>
